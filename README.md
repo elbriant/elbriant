@@ -1,9 +1,9 @@
 - 👋 Hi, I’m elbriant
-- 👀 I’m interested in learning so i can find a job!
-- 🌱 I’m currently learning python, Java, C and its variants
+- 👀 I’m interested in creating things out of the box!
+- 🌱 I have skills im web development and game development
 - 📫 How to reach me: write an email! elbrianl14@gmail.com
 
-i speak spanish but for these things i think its better to use english
+- My native languague is spanish, but also fluent in english!
 
 
 <!---
