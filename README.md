@@ -1,7 +1,7 @@
 - 👋 Hi, I’m elbriant
 - 👀 I’m interested in creating things out of the box!
 - 🌱 I have skills in web development and game development
-- 📫 How to reach me: write an email! elbrianl14@gmail.com
+- 📫 How to reach me: write an email! elbriantdev@gmail.com
 
 - My native languague is spanish, but also fluent in english!
 
