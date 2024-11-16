@@ -1,12 +1,18 @@
-- 👋 Hi, I’m elbriant
-- 👀 I’m interested in creating things out of the box!
-- 🌱 I have skills in web development and game development
-- 📫 How to reach me: write an email! elbriantdev@gmail.com
-
-- My native languague is spanish, but also fluent in english!
-
-
+<div align="center">
+    <h3>Hi 👋, I'm <a href="https://elbriant.github.io">elbriant</a></h3>
+    <p align="center">
+        <a href="https://elbriant.github.io">
+            <img src="./saga.gif" width="50"/>
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://github.com/elbriant/elbriant/blob/main/README.md"><span>English</span></a>|
+        <a href="https://github.com/elbriant/elbriant/blob/main/README_ES.md"><span>Spanish</span></a>|
+    </p>
+    <p> I like backend languages </p>
+    <h4 align="left"> 📫 How to reach me: write an email! elbriantdev@gmail.com</h4>
+    <h4 align="left">My native languague is spanish, but also fluent in english!</h4>
+</div>
 <!---
-elbriant/elbriant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+i should modify this again in the future 
 --->
