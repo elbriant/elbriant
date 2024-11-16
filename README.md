@@ -10,7 +10,7 @@
         <a href="https://github.com/elbriant/elbriant/blob/main/README_ES.md"><span>Spanish</span></a>
     </p>
     <p> I like backend languages </p>
-    <h4 align="left"> 📫 How to reach me: write an email! elbriantdev@gmail.com</h4>
+    <h4 align="left"> 📫 How to reach me: write an email! <a href="mailto:elbriantdev@gmail.com">elbriantdev@gmail.com</a></h4>
     <h4 align="left">My native languague is spanish, but also fluent in english!</h4>
 </div>
 <!---
